@@ -3,9 +3,9 @@
 
 ## start build generated variables
 kernel_string="NetHunter kernel"
-kernel_author="semsevens"
+kernel_author="4yush5663"
 kernel_version="1.0"
-device_names="jflte jfltexx i9505 GT-I9505 jgedlte i9505g GT-I9505G"
+device_names="ja3g ja3gxx i9500 GT-I9500"
 generic=
 ## end build generated variables
 
